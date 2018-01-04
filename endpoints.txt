@@ -1,0 +1,8 @@
+/// To train 
+https://autopklgenerator.run.aws-usw02-pr.ice.predix.io/train
+
+///To download pickle file
+https://autopklgenerator.run.aws-usw02-pr.ice.predix.io/pickleTwo
+
+///To upload files
+https://autopklgenerator.run.aws-usw02-pr.ice.predix.io/upload

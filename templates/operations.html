@@ -1,0 +1,23 @@
+<html>
+   <body>
+   <form action = "http://127.0.0.1:3000/uploader" method = "POST"
+         enctype = "multipart/form-data">
+         <select name="Select Methods">
+            <option value="Regression">Regression</option>
+             <option value="Clustering">Clustering</option>
+             <option value="Classification">Classification</option>
+           </select>
+         <br><br>
+          <select name="Select Algorithms">
+            <option value="LinearRegression">Linear Regression</option>
+             <option value="TBD">TBD</option>
+             <option value="TBD">TBD</option>
+           </select>
+         <br><br>
+          Enter value for the training data
+              <input type="number" name="% Train Data" min="0" max="90" id="TrainingValue">
+          <input type="submit" name="Train" onclick="alert('Training Data')" id="Train">
+   </form>
+        <input type="button" name="Downlaod" onclick="alert('Downlaoding')" id="Save">
+   </body>
+</html>
