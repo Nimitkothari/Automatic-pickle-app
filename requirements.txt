@@ -15,7 +15,7 @@ Markdown==2.6.10
 MarkupSafe==1.0
 openpyxl==2.4.9
 pandas==0.21.0
-protobuf==3.5.0.post1
+protobuf==3.18.3
 pyparsing==2.2.0
 python-dateutil==2.6.1
 pytz==2017.3
